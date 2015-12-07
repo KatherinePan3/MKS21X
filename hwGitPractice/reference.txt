@@ -1,5 +1,6 @@
 git add
 snapshots the file in preparation for versioning
+-blah blah blahpoihfij
 git init
 creates a new locol repository 
 git clone
