@@ -1,0 +1,8 @@
+git add
+snapshots the file in preparation for versioning
+git init
+creates a new locol repository 
+git clone
+downloads a project
+git diff
+shows file differences
